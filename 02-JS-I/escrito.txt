@@ -1,0 +1,10 @@
+Variables:
+Las variables son una especie de caja en la que se almacenan datos, para poder consultarlos cuando sea necesario.
+Strings:
+Las strings son un tipo de dato, expresado en cadenas de texto.
+Funciones: las funciones son operaciones que realiza jv, utilizando las variables. Por ejemplo sumar o restar dos variables es una funcion.
+Declaraciones:
+Las declaraciones indican al sistema que hagan algo con palabras especificas, por ejemplo la palabra function, le indica al sistema que proximamente se viene una funcion.
+Valores booleanos: 
+
+es un tipo de dato, que se utiliza para diferenciar dos objetos, por ejemplo cuando un numero es mayor que otro.
