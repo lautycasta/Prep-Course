@@ -1,0 +1,6 @@
+el bucle for evalua expresiones una y otra vez hasta que se devuelve algo que se estaba buscando. Si no se encuentra, se sigue ejecutando.
+
+
+El operador &&, denominado operador "y" "and", evalua dos expresiones y devuelve Verdadero si ambas son true. Si uno es falso, devolvera false.
+El operador ||, denominado operador "o" evalua entre dos expresiones, y devolvera true cuando una o ambas expresiones son true. Si ambas son falsas, devolvera false.
+El operador !, denominado operador "no" "not", este operador devuelve el valor booleano opuesto de lo que se le indica.
