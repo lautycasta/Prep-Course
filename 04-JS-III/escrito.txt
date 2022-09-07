@@ -1,0 +1,2 @@
+Arrays
+Los arrays o arreglos, son una especie de lista para ordenar los datos, estos datos pueden ser consultados, se pueden agregar o tambien se pueden eliminar.
