@@ -1,0 +1,4 @@
+Constructors o clases
+Es como crear una plantilla, para agregarle propiedades a varios objetos que comparten estas propiedades. Al crearla, la primer letra debe ser mayuscula ya que los desarrolladores lo han propuesto asi.
+Prototype
+El prototype, indica que todos los objetos tienen referencia a un objeto que fue creado antes. El objeto alfa o supremo de java script se llama Objet. Por ende todos los objetos que sean creaods responden a ese prototype.
