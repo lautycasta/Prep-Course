@@ -1,0 +1,1 @@
+Las funciones callbacks, pueden llamarse en cualquier momento y se utilizan para pasar funciones como argumentos dentro de una funcion.
